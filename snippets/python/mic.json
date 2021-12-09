@@ -1,0 +1,7 @@
+{
+    "some import": {
+        "prefix": "imm",
+        "body": "import numpy as np\nimport pandas as pd\nimport matplotlib.pyplot as plt",
+        "description" : "Import the usefal math lib"
+    }
+}

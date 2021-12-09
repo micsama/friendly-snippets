@@ -199,6 +199,10 @@
       },
       {
         "language": "python",
+        "path": "./snippets/python/mic.json"
+      },
+      {
+        "language": "python",
         "path": "./snippets/python/base.json"
       },
       {
